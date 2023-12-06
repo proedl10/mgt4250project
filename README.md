@@ -7,6 +7,9 @@
 - Q2: How does race affect the median income of everyday people?
 - Q3: How does the income change between genders based on the education level
 
+## Why we picked these questions
+- Income Inequality has a significant societal and economic impact, and it is important that we understand the factors that lead to inequality for greater economic development.
+- 
 ## Data Description
 Variables
 - First 
