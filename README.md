@@ -1,20 +1,21 @@
-# mgt4250project - The class project of MGT 4250 Fall 2023 at Elon University
+# the Impact of Income Inquality - The class project of MGT 4250 Fall 2023 at Elon University
 
 
 
 ## Project Questions
 - Q1: What are the key drivers for income inequality?
 - Q2: How does race affect the median income of everyday people?
-- Q3: How does the income change between genders based on the education level
+- Q3: What is the impact of Gender and Education on income levels? 
 
 ## Why we Picked These Questions
 - Income Inequality has a significant societal and economic impact, and it is important that we understand the factors that lead to inequality for greater economic development.
 - When comparing median incomes, it is important to factor in race as the data could highlight challenges that certain racial groups go through.
   
-## Data Description
-Variables
-- First 
-- second
+## Data Description and Access Instructions
+- To access data, 
+- First Visualization
+    -  
+- Second Visualization
 
 
 
