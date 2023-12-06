@@ -1,11 +1,17 @@
 # mgt4250project
 
 
-## Key drivers for income inequality
 
+
+
+## Project Questions
+- Q1: What are the key drivers for income inequality within a specific region?
+- Q2: Are there any important demographic variables that could impact income inequality?
+- Q3: How does income inequality change over time? Are there specific time periods of interest?
 
 ## Data Description
 describe the data that you use 
+Variables
 - First 
 - second
 
@@ -26,3 +32,9 @@ Technological Impact:
 - This data explains how the industry you work in affects income levels, and how gender also has a serious input.
 - By visualizing income distribution across industries, you can identify sectors where technological advancements may be contributing to income disparities. We can see which industries are most frequent in which locations, and see how this can impact income inequality.
 
+
+
+- Include a link to your visualization app
+- mention that this repo is for the class project of MGT 4250 Fall 2023 at Elon University
+- Project questions are stated
+- Their importance are clearly mentioned with valid references
