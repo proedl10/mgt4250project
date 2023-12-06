@@ -33,8 +33,15 @@ Technological Impact:
 - By visualizing income distribution across industries, you can identify sectors where technological advancements may be contributing to income disparities. We can see which industries are most frequent in which locations, and see how this can impact income inequality.
 
 
-
+## Instructions
 - Include a link to your visualization app
 - mention that this repo is for the class project of MGT 4250 Fall 2023 at Elon University
 - Project questions are stated
 - Their importance are clearly mentioned with valid references
+- Instructions about how to access and download your data correctly
+- The data types and descriptions of the columns used in visualizations are clearly explained
+- For each visualization, interpret a visualization and explain how it contributes to answering your question
+- Find an article related to your questions and summarize the article
+- Ask your questions to GPT-4 and write your query and GPT-4’s responses (You can use the API key for our course; Ask as many as possible for proper responses; Mention that the response is generated from GPT-4)
+- Discuss whether your visualizations align well with the article and GPT-4’s
+response
