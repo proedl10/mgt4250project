@@ -9,6 +9,9 @@
 - Q2: Are there any important demographic variables that could impact income inequality?
 - Q3: How does income inequality change over time? Are there specific time-periods of interest?
 
+## Why we picked these questions
+- Income Inequality has a significant societal and economic impact, and it is important that we understand the factors that lead to inequality for greater economic development.
+- 
 ## Data Description
 describe the data that you use 
 Variables
