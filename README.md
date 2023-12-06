@@ -12,9 +12,9 @@
 - When comparing median incomes, it is important to factor in race as the data could highlight challenges that certain racial groups go through.
   
 ## Data Description and Access Instructions
-- To access data, the first step is 
+- To access data, the first step is to click on the link to the streamlit app. Once in the app, you will be able to access our visualizations. 
 - First Visualization
-    -  
+    -  Our first visualization is 
 - Second Visualization
     - 
 
