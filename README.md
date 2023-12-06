@@ -1,4 +1,4 @@
-# the Impact of Income Inquality - The class project of MGT 4250 Fall 2023 at Elon University
+# The Impact of Income Inquality - The class project of MGT 4250 Fall 2023 at Elon University
 
 
 
@@ -12,10 +12,11 @@
 - When comparing median incomes, it is important to factor in race as the data could highlight challenges that certain racial groups go through.
   
 ## Data Description and Access Instructions
-- To access data, 
+- To access data, the first step is 
 - First Visualization
     -  
 - Second Visualization
+    - 
 
 
 
