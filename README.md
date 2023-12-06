@@ -1,4 +1,4 @@
-# The Impact of Income Inquality - The class project of MGT 4250 Fall 2023 at Elon University
+# The Impact of Income Inequality - The class project of MGT 4250 Fall 2023 at Elon University
 
 
 
@@ -23,8 +23,7 @@
 
 
 ## Interpreting Visualizations
-<img width="500" alt=![image](https://github.com/proedl10/mgt4250project/assets/152214737/6afa4d27-d8a1-45b8-a006-243d1d1e483f)>
-
+![image].(<http://localhost:8521/media/d968dbc8c889e804568989b0b6316c3d57fffa9780d32af580fefeba.png>)
 
 
 
