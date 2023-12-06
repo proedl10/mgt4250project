@@ -1,4 +1,4 @@
-# mgt4250project - the class project of MGT 4250 Fall 2023 at Elon University
+# mgt4250project - The class project of MGT 4250 Fall 2023 at Elon University
 
 
 
@@ -7,9 +7,10 @@
 - Q2: How does race affect the median income of everyday people?
 - Q3: How does the income change between genders based on the education level
 
-## Why we picked these questions
+## Why we Picked These Questions
 - Income Inequality has a significant societal and economic impact, and it is important that we understand the factors that lead to inequality for greater economic development.
-- 
+- When comparing median incomes, it is important to factor in race as the data could highlight challenges that certain racial groups go through.
+  
 ## Data Description
 Variables
 - First 
