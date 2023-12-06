@@ -7,7 +7,7 @@
 ## Project Questions
 - Q1: What are the key drivers for income inequality within a specific region?
 - Q2: Are there any important demographic variables that could impact income inequality?
-- Q3: How does income inequality change over time? Are there specific time periods of interest?
+- Q3: How does income inequality change over time? Are there specific time-periods of interest?
 
 ## Data Description
 describe the data that you use 
