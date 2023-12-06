@@ -56,3 +56,5 @@ Technological Impact:
 - Ask your questions to GPT-4 and write your query and GPT-4’s responses (You can use the API key for our course; Ask as many as possible for proper responses; Mention that the response is generated from GPT-4)
 - Discuss whether your visualizations align well with the article and GPT-4’s
 response
+
+https://www.statista.com/statistics/233301/median-household-income-in-the-united-states-by-education/#:~:text=U.S.%20median%20household%20income%202022%2C%20by%20education%20of%20householder&text=U.S.%20citizens%20with%20a%20professional,money%2C%20at%2033%2C830%20U.S.%20dollars.
