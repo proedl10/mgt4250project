@@ -1,4 +1,4 @@
-# mgt4250project
+# mgt4250project - the class project of MGT 4250 Fall 2023 at Elon University
 
 
 
