@@ -5,7 +5,7 @@
 ## Project Questions
 - Q1: What are the key drivers for income inequality?
 - Q2: How does race affect the median income of everyday people?
-- Q3: What is the impact of Gender and Education on income levels? 
+- Q3: What is the impact of Education on income levels? 
 
 ## Why we Picked These Questions
 - Income Inequality has a significant societal and economic impact, and it is important that we understand the factors that lead to inequality for greater economic development.
