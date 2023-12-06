@@ -10,6 +10,8 @@
 ## Why we Picked These Questions
 - Income Inequality has a significant societal and economic impact, and it is important that we understand the factors that lead to inequality for greater economic development.
 - When comparing median incomes, it is important to factor in race as the data could highlight challenges that certain racial groups go through.
+- This data could provide insight into the role of education, and show the importance of equal opportunity. 
+
   
 ## Data Description and Access Instructions
 - To access data, the first step is to click on the link to the streamlit app. Once in the app, you will be able to access our visualizations. 
