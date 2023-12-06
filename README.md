@@ -23,7 +23,7 @@
 
 
 ## Interpreting Visualizations
-![image].(<http://localhost:8521/media/d968dbc8c889e804568989b0b6316c3d57fffa9780d32af580fefeba.png>)
+![image].(<img width="967" alt="Screenshot 2023-12-06 at 18 57 25" src="https://github.com/proedl10/mgt4250project/assets/152214737/c0d1b696-2417-4dac-a04d-f1e055383a46">)
 
 
 
