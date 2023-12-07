@@ -2,6 +2,7 @@
 
 
 ## Section 1: Project Description
+- Link to Streamlit app: https://mgt4250project-jjluskeraqz6dotpy4h225.streamlit.app/
 ### Project Questions
 - Q1: What are the key drivers for income inequality?
 - Q2: How does race affect the median income of everyday people?
