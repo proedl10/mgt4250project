@@ -28,7 +28,7 @@ Interpretation:
 - 
 <img width="1432" alt="Screenshot 2023-12-06 at 19 02 45" src="https://github.com/proedl10/mgt4250project/assets/152214737/96e8ec85-03a2-472e-b414-d5ab92960698">
 Interpretation:
-- 
+- The graphs above show the median income between two races in the United States between 1972 and 2001 (first figure), and 1970- 2022 (second figure). This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics. 
 
 
 
