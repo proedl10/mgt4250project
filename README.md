@@ -8,7 +8,7 @@
 ### Project Questions
 - Q1: What are the key drivers for income inequality?
 - Q2: How does race affect the median income of everyday people?
-- Q3: What is the impact of Education on income levels? 
+- Q3: What is the impact of education on income levels? 
 
 
 ### Importance of our Questions
