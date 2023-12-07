@@ -70,17 +70,6 @@ Interpretation:
 response
 
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-df_hispanic = pd.read_excel("GP Hispanic .xlsx")
-var2 = df_hispanic[' Median income Estimate  ($)']
-plt.bar(df_hispanic['Race and Hispanic origin of householder'], var2)
-plt.xlabel("Year")
-plt.ylabel("Meadian Income ($)")
-plt.savefig("Hispanic Median Income by Year")
-
 
 https://www.statista.com/statistics/233301/median-household-income-in-the-united-states-by-education/#:~:text=U.S.%20median%20household%20income%202022%2C%20by%20education%20of%20householder&text=U.S.%20citizens%20with%20a%20professional,money%2C%20at%2033%2C830%20U.S.%20dollars.
 
