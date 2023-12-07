@@ -34,13 +34,16 @@ Interpretation:
 Interpretation:
 - This Visualization help us understand the relationship between income and education levels, showing that education has a great effect on income.
 
+## Summary of Related Article
+-
 
 
 ## Chat GPT-4 Responses
 - Using our Professors API key, we were able to ask Chat GPT-4 our questions, and these were its responses.
 - <img width="1005" alt="Screenshot 2023-12-06 at 6 58 07 PM" src="https://github.com/proedl10/mgt4250project/assets/152214864/563bda84-cee6-4ab6-aad4-c224a0c1fcb3">
 
-
+## Our Visualizations compared to Article Summary and Chat GPT-4 Response
+-
 
 ## Instructions
 - Include a link to your visualization app
