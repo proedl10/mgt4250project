@@ -23,8 +23,9 @@
 
 
 ## Interpreting Visualizations
-![image](<img width="967" alt="Screenshot 2023-12-06 at 18 57 25" src="https://github.com/proedl10/mgt4250project/assets/152214737/c0d1b696-2417-4dac-a04d-f1e055383a46">)
+!<img width="967" alt="Screenshot 2023-12-06 at 18 57 25" src="https://github.com/proedl10/mgt4250project/assets/152214737/c0d1b696-2417-4dac-a04d-f1e055383a46">
 
+<img width="297" alt="Screenshot 2023-11-27 at 14 19 58" src="https://github.com/proedl10/mgt4250test/assets/152214737/d37d1197-5ac7-4bfb-a713-19f9419c1534">
 
 
 ## Discussion & Summary
