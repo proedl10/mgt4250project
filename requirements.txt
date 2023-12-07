@@ -3,3 +3,4 @@ streamlit
 xlrd
 matplotlib
 scikit-learn
+seaborn
