@@ -18,7 +18,6 @@
 - First Visualization
     -  Our first visualization is 
 - Second Visualization
-    - 
 
 
 
