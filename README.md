@@ -13,8 +13,8 @@
 
 ### Importance of our Questions
 - Income Inequality has a significant societal and economic impact, and we must understand the factors that lead to inequality for greater economic development.
-- When comparing median incomes, it is important to factor in race as the data could highlight challenges that certain racial groups go through.
-- This data could provide insight into the role of education, and show the importance of equal opportunity. 
+- When comparing median incomes, it is important to factor in race as the data could highlight challenges that certain racial groups go through. With the data, we can go further in-depth and show how race can play a significant part in determining income, and how racial inequality might be a factor. 
+- This data could provide insight into the role of education, and show the importance of equal opportunity. If there's a clear trend showing higher income with higher education, it suggests that education is a key driver of income inequality.
 
 
 
