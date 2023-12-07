@@ -31,7 +31,14 @@ Another source of our data was from statista.com, where we found data regarding 
 <img width="967" alt="Screenshot 2023-12-06 at 18 57 25" src="https://github.com/proedl10/mgt4250project/assets/152214737/c0d1b696-2417-4dac-a04d-f1e055383a46">
 
 Interpretation:
-- The graph above show the median income between two races in the United States between 1972 and 2001. This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics. 
+- The graph above show the median income between two races in the United States between 1972 and 2001. This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics.
+
+
+<img width="760" alt="Screenshot 2023-12-06 at 22 34 32" src="https://github.com/proedl10/mgt4250project/assets/152214737/ca3ef43b-ac0c-4720-bf0b-e381bc08e353">
+
+Interpretation:
+- This is another visualization detailing the median income ($) by year for Hispanic individuals between the years of 1972-2022. By splitting the data up and visualizing different categories individually we are really able to understand and compare the data with visualizations and detailed explanations. 
+
 
 ### Education
 <img width="1432" alt="Screenshot 2023-12-06 at 19 02 45" src="https://github.com/proedl10/mgt4250project/assets/152214737/96e8ec85-03a2-472e-b414-d5ab92960698">
