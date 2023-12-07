@@ -49,7 +49,8 @@ Interpretation:
 
 ## Section 4 – Discussion & Summary
 ### Summary of Related Article and Link
-- Link to article: https://www.investopedia.com/terms/i/income-inequality.asp#:~:text=Income%20inequality%20refers%20to%20how,the%20greater%20the%20income%20inequality. 
+[Link to article](https://www.investopedia.com/terms/i/income-inequality.asp#:~:text=Income%20inequality%20refers%20to%20how,the%20greater%20the%20income%20inequality)
+
 - The Article that we chose is called "Income Inequality Definition: Examples and how its Measured", written by Carol M. Kopp, from the website investopedia.com. The article talks about what income inequality means, how it can lead to uneven distribution of wealth, and unfair opportunity for better standards of living and sucess in general. Netx, the article explains the causes of Income Inequality, where it mentions globalization, advances in technology, gender and race bias, education, economic conditions, and taxation. The article realizes that income inequality is an issue, explaining that it can promote potentially destructive social and economic upheaval, amongst many other dangers. Large imbalances in income have been caused and maintained by these factors, and it is important that the world adresses this problem. 
 
 
