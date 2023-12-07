@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 import os
+!pip install openpyxl
 
 # Get the absolute path of the current script
 current_path = os.path.dirname(os.path.abspath(__file__))
