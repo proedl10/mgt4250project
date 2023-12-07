@@ -32,22 +32,10 @@ Interpretation:
 
 
 
-## Discussion & Summary
-- Explain how and why these visualizations answer your question
+## Chat GPT-4 Responses
+- Using our Professors API key, we were able to ask Chat GPT-4 our questions, and these were its responses.
+- <img width="1005" alt="Screenshot 2023-12-06 at 6 58 07 PM" src="https://github.com/proedl10/mgt4250project/assets/152214864/563bda84-cee6-4ab6-aad4-c224a0c1fcb3">
 
-
- 
-
-- Include figures for your most up-to-date three visualizations with descriptions
-
-
-
-Technological Impact:
-- Bar chart illustrating the distribution of income across different industries.
-- X-axis: Industries, Y-axis: Hourly Earnings.
-- Highlight industries with a significant technological impact. 
-- This data explains how the industry you work in affects income levels, and how gender also has a serious input.
-- By visualizing income distribution across industries, you can identify sectors where technological advancements may be contributing to income disparities. We can see which industries are most frequent in which locations, and see how this can impact income inequality.
 
 
 ## Instructions
