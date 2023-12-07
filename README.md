@@ -31,20 +31,20 @@ Another source of our data was from statista.com, where we found data regarding 
 <img width="967" alt="Screenshot 2023-12-06 at 18 57 25" src="https://github.com/proedl10/mgt4250project/assets/152214737/c0d1b696-2417-4dac-a04d-f1e055383a46">
 
 Interpretation:
-- The graph above show the median income between two races in the United States between 1972 and 2001. This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics.
+- The graph above shows the median income between two races in the United States between 1972 and 2001. This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics. The orange dotted line represents the median income of black median income and the blue dotted line of white median income. Both show that over the years the income has increased. Every single year the white income has been higher than the black income. So, race is a huge factor in how much income you make.
 
 
 <img width="977" alt="Screenshot 2023-12-06 at 22 35 27" src="https://github.com/proedl10/mgt4250project/assets/152214737/01ef2025-8e0e-4e02-9154-3fed589cfa9e">
 
 Interpretation:
-- This is another visualization detailing the median income ($) by year for Hispanic individuals between the years of 1972-2022. By splitting the data up and visualizing different categories individually we are really able to understand and compare the data with visualizations and detailed explanations. 
+- This is another visualization detailing the median income ($) by year for Hispanic individuals between the years of 1972-2022. By splitting the data up and visualizing different categories individually we can understand and compare the data with visualizations and detailed explanations. It is interesting to notice that over the years the income for Hispanic individuals has increased. Interesting to note is that there have been some downfalls in 2010 and in the mid-1990s.
 
 
 ### Education
 <img width="1432" alt="Screenshot 2023-12-06 at 19 02 45" src="https://github.com/proedl10/mgt4250project/assets/152214737/96e8ec85-03a2-472e-b414-d5ab92960698">
 
 Interpretation:
-- This Visualization help us understand the relationship between income and education levels, showing that education has a great effect on income. As you can see, there is a linear relationship between income and level of education with the two highest earning levels of education being Doctorate and Professional Degree. The minimum mean income is $33,830(less than 9th grade) while the highest(professional degree) has a mean of $157,800, the difference between the two being $123,970.
+- This Visualization helps us understand the relationship between income and education levels, showing that education has a great effect on income. As you can see, there is a linear relationship between income and level of education with the two highest earning levels of education being Doctorate and Professional Degree. The minimum mean income is $33,830(less than 9th grade) while the highest(professional degree) has a mean of $157,800. The difference between the two is $123,970.
 
 
 ## Section 4 – Discussion & Summary
