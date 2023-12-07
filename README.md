@@ -34,7 +34,7 @@ Interpretation:
 - The graph above show the median income between two races in the United States between 1972 and 2001. This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics.
 
 
-<img width="760" alt="Screenshot 2023-12-06 at 22 34 32" src="https://github.com/proedl10/mgt4250project/assets/152214737/ca3ef43b-ac0c-4720-bf0b-e381bc08e353">
+<img width="977" alt="Screenshot 2023-12-06 at 22 35 27" src="https://github.com/proedl10/mgt4250project/assets/152214737/01ef2025-8e0e-4e02-9154-3fed589cfa9e">
 
 Interpretation:
 - This is another visualization detailing the median income ($) by year for Hispanic individuals between the years of 1972-2022. By splitting the data up and visualizing different categories individually we are really able to understand and compare the data with visualizations and detailed explanations. 
