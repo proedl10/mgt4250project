@@ -65,4 +65,13 @@ Interpretation:
 - Discuss whether your visualizations align well with the article and GPT-4’s
 response
 
+## Section 2: Data Description & Upload 
+To find and download publicly available datasets for our project, we looked for sources regarding median income by a variety of characteristics inculding race, gender, and education. We were able to find an abundance of datasets on census.gov that met our needs but in order to visualize the data we had to re-organize them into a more user friendly format as there were several cells containing text as opposed to numbers. To do this, we selected a certain characteristic and the data that represented it, and moved it into a seperate spreadsheet. For example, in the uploaded files of this repository there are 4 excel spreadsheets containing the data found on census.gov regarding median income and race. Each spreadsheet contains data about a different race in order to make vizualizing the data on python simple and fluid. 
+
+To download the datasets we used and explored, click the census.gov link below, scroll down to the "Tables" section, and downlaod the desired spreadsheet. The data used for our visualizations can be found in the dataset labeled "A-1" under the "Tables" section. This spreadsheet containes data about a variety of races that we had to split up into their own spreadsheet in order to compare against one another.
+
+Another source of our data was from statista.com, where we found data regarding median income in USD by level of education. This spreadsheet only contained the processed means of the original dataset so it did not need much processing. That being said, we had to clean up the spreadsheet and format it in a python analysis/visualization friendly way. It can be found on the right under "Download" at the top of the page, the link can be found below. The data types in the original spreadsheet did not need to be modified as all numbers were pre-processed into their means and the only other column was the name/title of the level of education. If we had the original data before the means were calculated, we could have used label encoding or OneHotEncoding to encode the level of education and produce a machine learning model to deepen our understanding of the data through statistics and visualizations. 
+
 https://www.statista.com/statistics/233301/median-household-income-in-the-united-states-by-education/#:~:text=U.S.%20median%20household%20income%202022%2C%20by%20education%20of%20householder&text=U.S.%20citizens%20with%20a%20professional,money%2C%20at%2033%2C830%20U.S.%20dollars.
+
+https://www.census.gov/library/publications/2023/demo/p60-279.html
