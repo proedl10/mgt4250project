@@ -24,11 +24,15 @@
 
 ## Interpreting Visualizations
 <img width="967" alt="Screenshot 2023-12-06 at 18 57 25" src="https://github.com/proedl10/mgt4250project/assets/152214737/c0d1b696-2417-4dac-a04d-f1e055383a46">
+
 Interpretation:
-- 
+- The graph above show the median income between two races in the United States between 1972 and 2001. This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics. 
+
+
 <img width="1432" alt="Screenshot 2023-12-06 at 19 02 45" src="https://github.com/proedl10/mgt4250project/assets/152214737/96e8ec85-03a2-472e-b414-d5ab92960698">
+
 Interpretation:
-- The graphs above show the median income between two races in the United States between 1972 and 2001 (first figure), and 1970- 2022 (second figure). This data is just a brief part of the data sets we have collected and used in creating visuals and developing an understanding of our topics. 
+- This Visualization help us understand the relationship between income and education levels, showing that education has a great effect on income.
 
 
 
