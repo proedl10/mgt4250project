@@ -2,7 +2,8 @@
 
 
 ## Section 1: Project Description
-[Link to Streamlit Community Cloud](https://mgt4250project-azqseuytgy8oyjpzumxtxk.streamlit.app/)
+[Link to Streamlit Community Cloud](https://public.tableau.com/views/PhilippRoedl/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 ### Project Questions
 - Q1: What are the key drivers for income inequality?
