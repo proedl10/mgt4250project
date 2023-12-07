@@ -34,7 +34,7 @@ Interpretation:
 <img width="1432" alt="Screenshot 2023-12-06 at 19 02 45" src="https://github.com/proedl10/mgt4250project/assets/152214737/96e8ec85-03a2-472e-b414-d5ab92960698">
 
 Interpretation:
-- This Visualization help us understand the relationship between income and education levels, showing that education has a great effect on income.
+- This Visualization help us understand the relationship between income and education levels, showing that education has a great effect on income. As you can see, there is a linear relationship between income and level of education with the two highest earning levels of education being Doctorate and Professional Degree.
 
 
 ## Section 4 – Discussion & Summary
